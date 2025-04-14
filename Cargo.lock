@@ -124,6 +124,7 @@ dependencies = [
  "axum",
  "bson",
  "futures",
+ "hyper",
  "mongodb",
  "once_cell",
  "serde",

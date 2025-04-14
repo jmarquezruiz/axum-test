@@ -2,6 +2,7 @@ use axum::{routing::get, Router};
 
 mod config;
 mod controllers;
+mod middlewares;
 mod models;
 mod routes;
 
